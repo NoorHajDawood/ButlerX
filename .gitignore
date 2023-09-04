@@ -1,0 +1,7 @@
+build/
+*.env
+!*.env.example
+node_modules/
+src/config.json
+!src/config.example.json
+```
